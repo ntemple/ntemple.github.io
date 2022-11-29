@@ -23,7 +23,7 @@ params:
   author: "Nick Temple"
   contact: "nick@nicktemple.com"
   feedlinks: true
-  copyright: "&copy2022 Nick Temple
+  copyright: "&copy;2022 Nick Temple"
   mobileMenu: true
 
 outputs:
